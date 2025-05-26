@@ -5,8 +5,8 @@ This is a PCB for Hack Club Solder! It's a simple flip flop circuit that's fish 
 ![image](https://github.com/user-attachments/assets/e3848cbd-45a8-4abc-a22a-704ff42fd029)
 
 ## PCB
-![image](https://github.com/user-attachments/assets/2aa7ede3-09a5-428a-9b23-67cbaf59695e)
-![image](https://github.com/user-attachments/assets/01ee8d5b-9b24-4393-b5be-d1214a0c56c2)
+![image](https://github.com/user-attachments/assets/fc0b27af-ea55-4e43-b6d6-507fb18a18d2)
+![image](https://github.com/user-attachments/assets/b7987435-80ac-4934-bd00-2c1eabc0db58)
 
 ## BOM
 - 1 battery holder
